@@ -1,0 +1,117 @@
+---
+object: card
+id: ca8a5c90-7581-47fa-b941-0709a9e2a756
+oracle_id: cfbcd70b-d3a9-47e9-a8b3-b8134d00dff8
+multiverse_ids:
+- 394082
+tcgplayer_id: 95597
+cardmarket_id: 271984
+name: Ruthless Ripper
+lang: en
+released_at: '2015-01-17'
+uri: https://api.scryfall.com/cards/ca8a5c90-7581-47fa-b941-0709a9e2a756
+scryfall_uri: https://scryfall.com/card/ugin/88/ruthless-ripper?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/a/ca8a5c90-7581-47fa-b941-0709a9e2a756.jpg?1562634649
+  normal: https://cards.scryfall.io/normal/front/c/a/ca8a5c90-7581-47fa-b941-0709a9e2a756.jpg?1562634649
+  large: https://cards.scryfall.io/large/front/c/a/ca8a5c90-7581-47fa-b941-0709a9e2a756.jpg?1562634649
+  png: https://cards.scryfall.io/png/front/c/a/ca8a5c90-7581-47fa-b941-0709a9e2a756.png?1562634649
+  art_crop: https://cards.scryfall.io/art_crop/front/c/a/ca8a5c90-7581-47fa-b941-0709a9e2a756.jpg?1562634649
+  border_crop: https://cards.scryfall.io/border_crop/front/c/a/ca8a5c90-7581-47fa-b941-0709a9e2a756.jpg?1562634649
+mana_cost: "{B}"
+cmc: 1.0
+type_line: Creature — Human Assassin
+oracle_text: |-
+  Deathtouch
+  Morph—Reveal a black card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+  When Ruthless Ripper is turned face up, target player loses 2 life.
+power: '1'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Morph
+- Deathtouch
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: fc7ea025-628e-45f4-9e0b-73681b1f68b7
+set: ugin
+set_name: Ugin's Fate
+set_type: promo
+set_uri: https://api.scryfall.com/sets/fc7ea025-628e-45f4-9e0b-73681b1f68b7
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Augin&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ugin?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ca8a5c90-7581-47fa-b941-0709a9e2a756/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acfbcd70b-d3a9-47e9-a8b3-b8134d00dff8&unique=prints
+collector_number: '88'
+digital: false
+rarity: uncommon
+watermark: silumgar
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Clint Cearley
+artist_ids:
+- 03b75350-d5a0-4e3a-b3b4-8d4a5554385b
+illustration_id: d50d37cc-81b9-4ba6-bf1d-43e5830e8a3a
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+edhrec_rank: 11575
+penny_rank: 6833
+prices:
+  usd: '2.86'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.29'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394082
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ruthless+Ripper&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ruthless+Ripper&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ruthless+Ripper
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/95597?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ruthless+Ripper&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ruthless+Ripper&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

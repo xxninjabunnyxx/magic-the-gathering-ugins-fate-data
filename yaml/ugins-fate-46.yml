@@ -1,0 +1,126 @@
+---
+object: card
+id: 3147ff96-c085-42be-a044-4e7d96d76fc9
+oracle_id: 70dc830e-d05b-4fc7-88dd-879e140b3fbf
+multiverse_ids:
+- 394081
+tcgplayer_id: 95596
+cardmarket_id: 272050
+name: Reality Shift
+lang: en
+released_at: '2015-01-17'
+uri: https://api.scryfall.com/cards/3147ff96-c085-42be-a044-4e7d96d76fc9
+scryfall_uri: https://scryfall.com/card/ugin/46/reality-shift?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/1/3147ff96-c085-42be-a044-4e7d96d76fc9.jpg?1562633821
+  normal: https://cards.scryfall.io/normal/front/3/1/3147ff96-c085-42be-a044-4e7d96d76fc9.jpg?1562633821
+  large: https://cards.scryfall.io/large/front/3/1/3147ff96-c085-42be-a044-4e7d96d76fc9.jpg?1562633821
+  png: https://cards.scryfall.io/png/front/3/1/3147ff96-c085-42be-a044-4e7d96d76fc9.png?1562633821
+  art_crop: https://cards.scryfall.io/art_crop/front/3/1/3147ff96-c085-42be-a044-4e7d96d76fc9.jpg?1562633821
+  border_crop: https://cards.scryfall.io/border_crop/front/3/1/3147ff96-c085-42be-a044-4e7d96d76fc9.jpg?1562633821
+mana_cost: "{1}{U}"
+cmc: 2.0
+type_line: Instant
+oracle_text: Exile target creature. Its controller manifests the top card of their
+  library. (That player puts the top card of their library onto the battlefield face
+  down as a 2/2 creature. If it's a creature card, it can be turned face up any time
+  for its mana cost.)
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Manifest
+all_parts:
+- object: related_card
+  id: 3147ff96-c085-42be-a044-4e7d96d76fc9
+  component: combo_piece
+  name: Reality Shift
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/3147ff96-c085-42be-a044-4e7d96d76fc9
+- object: related_card
+  id: e9f896d4-34b4-407d-be7e-bf7a69aaf811
+  component: combo_piece
+  name: Manifest
+  type_line: Creature
+  uri: https://api.scryfall.com/cards/e9f896d4-34b4-407d-be7e-bf7a69aaf811
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: fc7ea025-628e-45f4-9e0b-73681b1f68b7
+set: ugin
+set_name: Ugin's Fate
+set_type: promo
+set_uri: https://api.scryfall.com/sets/fc7ea025-628e-45f4-9e0b-73681b1f68b7
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Augin&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ugin?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3147ff96-c085-42be-a044-4e7d96d76fc9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A70dc830e-d05b-4fc7-88dd-879e140b3fbf&unique=prints
+collector_number: '46'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Howard Lyon
+artist_ids:
+- 6dd06426-59fe-4b9c-aad5-6da8446a5c3d
+illustration_id: 070ef3f9-ea45-4c46-9143-88354078a8e2
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+edhrec_rank: 197
+penny_rank: 4546
+prices:
+  usd: '3.13'
+  usd_foil: 
+  usd_etched: 
+  eur: '2.30'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394081
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Reality+Shift&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Reality+Shift&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Reality+Shift
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/95596?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Reality+Shift&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Reality+Shift&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

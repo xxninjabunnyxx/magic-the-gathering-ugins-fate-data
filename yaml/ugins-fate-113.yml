@@ -1,0 +1,115 @@
+---
+object: card
+id: 1177d512-3e3b-4cea-a162-1fab169aefb8
+oracle_id: 170adfe9-ffbe-40b1-b665-e756e7eb0302
+multiverse_ids:
+- 394077
+tcgplayer_id: 95580
+cardmarket_id: 271985
+name: Jeering Instigator
+lang: en
+released_at: '2015-01-17'
+uri: https://api.scryfall.com/cards/1177d512-3e3b-4cea-a162-1fab169aefb8
+scryfall_uri: https://scryfall.com/card/ugin/113/jeering-instigator?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/1/1177d512-3e3b-4cea-a162-1fab169aefb8.jpg?1562633569
+  normal: https://cards.scryfall.io/normal/front/1/1/1177d512-3e3b-4cea-a162-1fab169aefb8.jpg?1562633569
+  large: https://cards.scryfall.io/large/front/1/1/1177d512-3e3b-4cea-a162-1fab169aefb8.jpg?1562633569
+  png: https://cards.scryfall.io/png/front/1/1/1177d512-3e3b-4cea-a162-1fab169aefb8.png?1562633569
+  art_crop: https://cards.scryfall.io/art_crop/front/1/1/1177d512-3e3b-4cea-a162-1fab169aefb8.jpg?1562633569
+  border_crop: https://cards.scryfall.io/border_crop/front/1/1/1177d512-3e3b-4cea-a162-1fab169aefb8.jpg?1562633569
+mana_cost: "{1}{R}"
+cmc: 2.0
+type_line: Creature — Goblin Rogue
+oracle_text: |-
+  Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+  When Jeering Instigator is turned face up, if it's your turn, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.
+power: '2'
+toughness: '1'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Morph
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: fc7ea025-628e-45f4-9e0b-73681b1f68b7
+set: ugin
+set_name: Ugin's Fate
+set_type: promo
+set_uri: https://api.scryfall.com/sets/fc7ea025-628e-45f4-9e0b-73681b1f68b7
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Augin&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ugin?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/1177d512-3e3b-4cea-a162-1fab169aefb8/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A170adfe9-ffbe-40b1-b665-e756e7eb0302&unique=prints
+collector_number: '113'
+digital: false
+rarity: rare
+watermark: kolaghan
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Willian Murai
+artist_ids:
+- 5a553c8e-e3b9-40e0-bde5-1db621c53939
+illustration_id: 603d8d28-83fa-49f4-96d4-5b822c29e865
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+edhrec_rank: 13093
+penny_rank: 10233
+prices:
+  usd: '0.97'
+  usd_foil: 
+  usd_etched: 
+  eur: '2.45'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394077
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Jeering+Instigator&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Jeering+Instigator&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Jeering+Instigator
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/95580?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Jeering+Instigator&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jeering+Instigator&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

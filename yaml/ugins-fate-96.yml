@@ -1,0 +1,119 @@
+---
+object: card
+id: 9c90a983-16bf-46e7-924f-f653bcef8f23
+oracle_id: bf84a598-12d3-406d-8eeb-40592e782b87
+multiverse_ids:
+- 394065
+tcgplayer_id: 95586
+cardmarket_id: 271988
+name: Ainok Tracker
+lang: en
+released_at: '2015-01-17'
+uri: https://api.scryfall.com/cards/9c90a983-16bf-46e7-924f-f653bcef8f23
+scryfall_uri: https://scryfall.com/card/ugin/96/ainok-tracker?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/c/9c90a983-16bf-46e7-924f-f653bcef8f23.jpg?1566653951
+  normal: https://cards.scryfall.io/normal/front/9/c/9c90a983-16bf-46e7-924f-f653bcef8f23.jpg?1566653951
+  large: https://cards.scryfall.io/large/front/9/c/9c90a983-16bf-46e7-924f-f653bcef8f23.jpg?1566653951
+  png: https://cards.scryfall.io/png/front/9/c/9c90a983-16bf-46e7-924f-f653bcef8f23.png?1566653951
+  art_crop: https://cards.scryfall.io/art_crop/front/9/c/9c90a983-16bf-46e7-924f-f653bcef8f23.jpg?1566653951
+  border_crop: https://cards.scryfall.io/border_crop/front/9/c/9c90a983-16bf-46e7-924f-f653bcef8f23.jpg?1566653951
+mana_cost: "{5}{R}"
+cmc: 6.0
+type_line: Creature — Dog Scout
+oracle_text: |-
+  First strike
+  Morph {4}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+power: '3'
+toughness: '3'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Morph
+- First strike
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: fc7ea025-628e-45f4-9e0b-73681b1f68b7
+set: ugin
+set_name: Ugin's Fate
+set_type: promo
+set_uri: https://api.scryfall.com/sets/fc7ea025-628e-45f4-9e0b-73681b1f68b7
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Augin&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ugin?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9c90a983-16bf-46e7-924f-f653bcef8f23/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abf84a598-12d3-406d-8eeb-40592e782b87&unique=prints
+collector_number: '96'
+digital: false
+rarity: common
+watermark: atarka
+flavor_text: |-
+  "The ainok are wild dogs, not fit to join us around the fire."
+  —Surrak, the Hunt Caller
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Evan Shipard
+artist_ids:
+- eea284ce-9377-49c1-9d96-f34b7d487cdf
+illustration_id: 440798f8-e0af-441f-b753-fdb725e8c36a
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+edhrec_rank: 24221
+penny_rank: 12442
+prices:
+  usd: '0.26'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.35'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394065
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ainok+Tracker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ainok+Tracker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ainok+Tracker
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/95586?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ainok+Tracker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ainok+Tracker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
